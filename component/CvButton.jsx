@@ -5,7 +5,7 @@ import { FiDownload } from "react-icons/fi";
 export default function CvButton() {
   return (
     <a
-      href="https://drive.google.com/drive/u/0/folders/1ydYbJH22DHoyp1iR-HXOm6LL-pmCa3so"
+      href="https://drive.google.com/drive/folders/1ydYbJH22DHoyp1iR-HXOm6LL-pmCa3so?usp=sharing"
       target="_blank"
       rel="noopener noreferrer"
     >
